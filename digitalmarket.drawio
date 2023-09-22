@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T16:29:36.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="iGt4qb81IAwz5Yqe46jH" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T16:31:09.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="IYyj7PjTC195n-ngFHyr" version="21.8.0" type="github">
   <diagram name="Página-1" id="yHLhnurtFYIwdGKPc0__">
     <mxGraphModel dx="1489" dy="1497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="XshL-6T4XC386qb26OYc-20" value="RepositorioCompras" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-590" y="60" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XshL-6T4XC386qb26OYc-41" value="codigo" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="XshL-6T4XC386qb26OYc-20">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XshL-6T4XC386qb26OYc-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="XshL-6T4XC386qb26OYc-20" target="XshL-6T4XC386qb26OYc-12">
           <mxGeometry relative="1" as="geometry">
